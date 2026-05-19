@@ -23,6 +23,11 @@ mein-typescript-webprojekt/
 
 ## Merksatz
 
-Nicht "Template komplett kopieren", sondern:
-
-> **Passende Instructions aus dieser Bibliothek auswaehlen und in `.github/instructions/` des jeweiligen Projekts ablegen.**
+> [!IMPORTANT]
+> **!!! MERKSATZ !!!**
+>
+> **NICHT das komplette Template kopieren.**
+>
+> **Nur passende Instructions aus dieser Bibliothek auswaehlen und in `.github/instructions/` des jeweiligen Projekts ablegen.**
+>
+> ***** GLITZER-ALARM: DIESE ZEILE BITTE NIE IGNORIEREN. *****
